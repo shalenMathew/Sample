@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
 
                 // fifth commit from branchOne
 
-                // sixth and final commit
+                // sixth commit from branchOne
 
             }
         }
