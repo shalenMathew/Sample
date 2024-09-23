@@ -32,7 +32,6 @@ class MainActivity : ComponentActivity() {
 
                 // sixth and final commit
 
-
             }
         }
     }
